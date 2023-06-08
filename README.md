@@ -19,7 +19,7 @@
 
 <p align="center">🌱 I’m currently pursuing Full-Stack Web Developer Certification at the University of Kansas</p>
 
-<p align="center">👨‍💻 View my projects on my <a href="johndallasmoore.github.io">Portfolio</a></p>
+<p align="center">👨‍💻 View my projects on my <a href="https://johndallasmoore.github.io/">Portfolio</a></p>
 
 <p align="center">📫 How to reach me: <a href="mailto:moore.johndallas@gmail.com">moore.johndallas@gmail.com</a></p>
 
